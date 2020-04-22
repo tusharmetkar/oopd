@@ -65,7 +65,7 @@ class BottleNumber
 		else
 			number.to_s
 		end
-	end
+	end 
 
 	def pronoun
 		if number == 1	
